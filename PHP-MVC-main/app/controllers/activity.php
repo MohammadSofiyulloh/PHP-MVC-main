@@ -1,6 +1,6 @@
 <?php
 
-class Kegiatan extends Controller {
+class Activity extends Controller {
     public function activity1()
     {
         $data['title'] = 'Making Coffee';

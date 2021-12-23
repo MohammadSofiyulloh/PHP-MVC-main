@@ -1,6 +1,6 @@
 <?php
 
-class Daftar extends Controller {
+class Register extends Controller {
     public function index()
     {
         $data['title'] = 'Register';

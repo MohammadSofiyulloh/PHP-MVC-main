@@ -13,7 +13,7 @@
 		            <li><a href="<?= BASEURL; ?>/#home" class="smoothScroll" style="color:white;">Home</a></li>
 					<li> <a href="<?= BASEURL; ?>/#about" class="smoothScroll" style="color:white;">Tentang Kami</a></li>
 					<li> <a href="<?= BASEURL; ?>/#team" class="smoothScroll" style="color:white;">Team</a></li>
-                    <li> <a href="#" class="smoothScroll" style="color:white;">Recepient</a></li>
+                    <li> <a href="" class="smoothScroll" style="color:white;">Recepient</a></li>
 					<li> <a href="<?= BASEURL; ?>/#portfolio" class="smoothScroll" style="color:white;">Activity</a></li>
 					<li> <a href="<?= BASEURL; ?>/#daftarkelas" class="smoothScroll" style="color:white;">Apply</a></li>
 				</ul>

@@ -10,10 +10,10 @@
 	        </div>
 	        <div class="navbar-collapse collapse">
 	          	<ul class="nav navbar-nav">
-		            <li><a href="#home" class="smoothScroll">Home</a></li>
+		            <li> <a href="<?= BASEURL; ?>/home" class="smoothScroll">Home</a></li>
 					<li> <a href="#about" class="smoothScroll">Tentang Kami</a></li>
 					<li> <a href="#team" class="smoothScroll">Team</a></li>
-					<li> <a href="<?= BASEURL; ?>/participant" class="smoothScroll">Recepient</a></li>
+					<li> <a href="#recepient" class="smoothScroll">Recepient</a></li>
 					<li> <a href="#portfolio" class="smoothScroll">Activity</a></li>
 					<li> <a href="#daftarkelas" class="smoothScroll">Apply</a></li>
 				</ul>

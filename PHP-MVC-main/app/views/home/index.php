@@ -91,7 +91,7 @@
 				<hr class="fade-down title-mb">
 				<div class="col-md-4 ">
 					<div class="col-md-3 col-sm-3 col-xs-3 fade-down team-image-wrapper">
-						<img class="img team-image" src="images/0.jpg" alt="">
+						<img class="img team-image" src="img/0.jpg" alt="">
 						<!-- <a href="#" class="team-social twitter"><i class="el-icon-twitter"></i></a>
 						<a href="#" class="team-social facebook"><i class="el-icon-facebook"></i></a>
 						<a href="#" class="team-social flickr"><i class="el-icon-flickr"></i></a> -->
@@ -104,7 +104,7 @@
 
 				<div class="col-md-4">
 					<div class="col-md-3 col-sm-3 col-xs-3 fade-down team-image-wrapper">
-						<img class="img team-image" src="images/aaa.jpg" alt="">
+						<img class="img team-image" src="img/aaa.jpeg" alt="">
 						<!-- <a href="#" class="team-social twitter"><i class="el-icon-twitter"></i></a>
 						<a href="#" class="team-social facebook"><i class="el-icon-facebook"></i></a>
 						<a href="#" class="team-social flickr"><i class="el-icon-flickr"></i></a> -->
@@ -122,7 +122,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 centered fade-up">
-						<img class="img-responsive" src="images/macbook.png" align="">
+						<img class="img-responsive" src="img/macbook.png" align="">
 					</div>
 					<div class="col-md-6 fade-down" id="daftarkelas">
 						<h2>Tertarik untuk daftar kelas barista?</h2>
@@ -159,11 +159,11 @@
 					<div class="fade-up col-md-4 ">
 				    	<div class="grid mask">
 							<figure>
-								<img class="img-responsive" src="images/folio01.jpg" alt="">
+								<img class="img-responsive" src="img/folio01.jpg" alt="">
 								<figcaption>
 									<h5>Making Coffee</h5>
 									<a href="<?= BASEURL; ?>/activity/activity1" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
-									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
+									<a href="img/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
 				    	</div><!-- /grid-mask -->
@@ -173,11 +173,11 @@
 					<div class="fade-up col-md-4">
 				    	<div class="grid mask">
 							<figure>
-								<img class="img-responsive" src="images/folio02.jpg" alt="">
+								<img class="img-responsive" src="img/folio02.jpg" alt="">
 								<figcaption>
 									<h5>Barista Class</h5>
 									<a href="<?= BASEURL; ?>/activity/activity2" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
-									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
+									<a href="img/folio02.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
 				    	</div><!-- /grid-mask -->
@@ -187,11 +187,11 @@
 					<div class="fade-up col-md-4">
 				    	<div class="grid mask">
 							<figure>
-								<img class="img-responsive" src="images/folio03.jpg" alt="">
+								<img class="img-responsive" src="img/folio03.jpg" alt="">
 								<figcaption>
 									<h5>Booking Class Online</h5>
 									<a href="<?= BASEURL; ?>/activity/activity3" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
-									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
+									<a href="img/folio03.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
 				    	</div><!-- /grid-mask -->
